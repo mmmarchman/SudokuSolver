@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Work/KBtoSalesforce/.idea/KBtoSalesforce.iml" filepath="$PROJECT_DIR$/../../Work/KBtoSalesforce/.idea/KBtoSalesforce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SeniorProject/LoginPage/.idea/LoginPage.iml" filepath="$PROJECT_DIR$/../../SeniorProject/LoginPage/.idea/LoginPage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MarchmanSudokuSolver.iml" filepath="$PROJECT_DIR$/.idea/MarchmanSudokuSolver.iml" />
+    </modules>
+  </component>
+</project>
